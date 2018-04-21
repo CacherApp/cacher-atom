@@ -1,0 +1,23 @@
+{
+  "name": "cacher-atom",
+  "main": "./lib/cacher",
+  "version": "1.0.0",
+  "description": "Code snippet library for pro developers. Access your personal and team snippets across all your devices.",
+  "keywords": [
+    "snippets",
+    "gists",
+    "code library",
+    "cacher"
+  ],
+  "repository": "https://github.com/cacherapp/cacher-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "ejs": "^2.5.9",
+    "jquery": "^3.3.1",
+    "lodash": "^4.17.5",
+    "request": "^2.85.0"
+  }
+}
