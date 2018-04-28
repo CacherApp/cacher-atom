@@ -2,8 +2,17 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle atom",
-        "command": "atom:toggle"
+        "label": "Cacher",
+        "submenu": [
+          {
+            "label": "Find Snippet",
+            "command": "cacher:findSnippet"
+          },
+          {
+            "label": "Create Snippet",
+            "command": "cacher:createSnippet"
+          }
+        ]
       }
     ]
   },
@@ -15,8 +24,20 @@
           "label": "Cacher",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "atom:toggle"
+              "label": "Find Snippet",
+              "command": "cacher:findSnippet"
+            },
+            {
+              "label": "Create Snippet",
+              "command": "cacher:createSnippet"
+            },
+            {
+              "label": "Setup",
+              "command": "cacher:setup"
+            },
+            {
+              "label": "Refresh Snippets",
+              "command": "cacher:refresh"
             }
           ]
         }
