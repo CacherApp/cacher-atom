@@ -1,0 +1,7 @@
+{
+  "atom-workspace": {
+    "shift-alt-i": "cacher:findSnippet",
+    "shift-alt-c": "cacher:createSnippet",
+    "shift-alt-r": "cacher:refresh"
+  }
+}
