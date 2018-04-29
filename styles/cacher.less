@@ -18,4 +18,27 @@
     display: none;
     margin-bottom: 0;
   }
+
+  &.cacher-finder {
+    .finder-container {
+      display: flex;
+      align-items: stretch;
+      justify-content: space-between;
+    }
+
+    .select-list {
+      width: 210px;
+
+      ol.list-group {
+        height: 312px;
+        margin-top: 0;
+      }
+    }
+
+    .code-preview {
+      width: 100%;
+      height: 312px;
+      overflow-y: auto;
+    }
+  }
 }
