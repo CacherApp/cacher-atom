@@ -8,6 +8,7 @@ module.exports = {
   'rules': {
     'comma-dangle': 0,
     'block-spacing': 0,
-    'require-jsdoc': 0
+    'require-jsdoc': 0,
+    'no-invalid-this': 0
   }
 };
