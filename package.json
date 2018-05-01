@@ -9,7 +9,7 @@
     "code library",
     "cacher"
   ],
-  "repository": "https://github.com/cacherapp/cacher-atom",
+  "repository": "git@github.com:CacherApp/cacher-atom.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
