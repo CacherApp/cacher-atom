@@ -26,18 +26,18 @@ Demo of finding and inserting a Cacher snippet:
 
 ![Setup Cacher](https://cdn.cacher.io/atom/atom-setup.png "Setup Cacher")
 
-3. In the prompt to "Enter Cacher Credentials", click the **Open Cacher** link to view your user credentials. You can also navigate to the page via: [app.cacher.io/enter?action=view_api_creds](https://app.cacher.io/enter?action=view_api_creds)
+3. In the prompt to "Enter Cacher Credentials", click the **Open Cacher** link to view your API credentials. You can also navigate to the page via: [app.cacher.io/enter?action=view_api_creds](https://app.cacher.io/enter?action=view_api_creds)
 
 ![Cacher Credentials](https://cdn.cacher.io/atom/atom-credentials.png "Cacher Credentials")
 
 4. From the popped up webpage, sign up or sign in as a Cacher user.
-5. Once you are signed, you should see a dialog on the top-right corner with your **API KEY** and **API TOKEN** values.
+5. Once you are signed in, you should see a dialog on the top-right corner with your **API KEY** and **API TOKEN** values.
 
 ![API Credentials](https://cdn.cacher.io/atom/atom-api-creds.png "API Credentials")
 
 6. Back in Atom, enter your API key and token from step 5 into the prompt.
 
-7. You're all set! Open the Command Palette and type in **Cacher: Find Snippet** to try finding a snippet from your Cacher libraries.
+7. You're all set! Open the Command Palette and type in **Cacher: Find Snippet** to search for a snippet from your Cacher libraries.
 
 ## Commands
 
@@ -45,7 +45,7 @@ Demo of finding and inserting a Cacher snippet:
 
 > Shortcut: Alt+Shift+I
 
-Search for a snippet from your personal and team Cacher libraries. Searches across snippets' title, description and file content.
+Find a snippet from your personal and team Cacher libraries. Searches across snippets' title, description and file content.
 
 Once you've found what you're looking for, you'll see buttons in the footer to:
 
