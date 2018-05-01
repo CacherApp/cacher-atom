@@ -1,8 +1,8 @@
 {
-  "name": "cacher-atom",
+  "name": "cacher",
   "main": "./lib/cacher",
   "version": "1.0.0",
-  "description": "Code snippet library for pro developers. Access your personal and team snippets across all your devices.",
+  "description": "Cacher is the code snippet library for pro developers. Quickly find and create personal/team snippets.",
   "keywords": [
     "snippets",
     "gists",
