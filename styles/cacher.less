@@ -18,4 +18,77 @@
     display: none;
     margin-bottom: 0;
   }
+
+  .block-controls {
+    border-top: 1px solid @pane-item-border-color;
+    margin-top: 5px;
+    padding-top: 8px;
+  }
+
+  h3 {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid @pane-item-border-color;
+  }
+
+  &.cacher-finder {
+    .finder-container {
+      display: flex;
+      align-items: stretch;
+      justify-content: space-between;
+    }
+
+    .blank-slate {
+      width: 822px;
+      height: 420px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .select-list {
+      width: 250px;
+
+      ol.list-group {
+        width: 250px;
+        height: 420px;
+        max-height: 420px;
+        margin-top: 0;
+      }
+    }
+
+    .code-preview {
+      width: 100%;
+      height: 420px;
+      margin-left: 10px;
+
+      atom-text-editor {
+        height: 388px;
+        overflow-y: auto;
+
+        &.is-focused {
+          border-color: transparent;
+          box-shadow: none;
+        }
+      }
+
+      .controls {
+        margin-top: 6px;
+        display: flex;
+        justify-content: space-between;
+      }
+    }
+  }
+
+  &.cacher-create-snippet {
+    .input-select {
+      width: 100%;
+    }
+  }
+}
+
+atom-panel.modal.modal-cacher-finder {
+  max-width: 70em;
+  width: 70em;
 }
