@@ -5,12 +5,12 @@
         "label": "Cacher",
         "submenu": [
           {
-            "label": "Find Snippet",
-            "command": "cacher:findSnippet"
-          },
-          {
             "label": "Create Snippet",
             "command": "cacher:createSnippet"
+          },
+          {
+            "label": "Insert Snippet",
+            "command": "cacher:findSnippet"
           }
         ]
       }
