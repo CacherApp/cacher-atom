@@ -28,16 +28,16 @@ apm install cacher
 
 2. Once Atom has loaded, you will be prompted to setup Cacher. Click the **Setup Cacher** button. (You can also start the setup wizard by using the **Cacher: Setup** command.)
 
-![Setup Cacher](https://cdn.cacher.io/atom/atom-setup.png "Setup Cacher")
+  ![Setup Cacher](https://cdn.cacher.io/atom/atom-setup.png "Setup Cacher")
 
 3. In the prompt to "Enter Cacher Credentials", click the **Open Cacher** link to view your API credentials. You can also navigate to the page via: [app.cacher.io/enter?action=view_api_creds](https://app.cacher.io/enter?action=view_api_creds)
 
-![Cacher Credentials](https://cdn.cacher.io/atom/atom-credentials.png "Cacher Credentials")
+  ![Cacher Credentials](https://cdn.cacher.io/atom/atom-credentials.png "Cacher Credentials")
 
 4. From the popped up webpage, sign up or sign in as a Cacher user.
 5. Once you are signed in, you should see a dialog on the top-right corner with your **API KEY** and **API TOKEN** values.
 
-![API Credentials](https://cdn.cacher.io/atom/atom-api-creds.png "API Credentials")
+  ![API Credentials](https://cdn.cacher.io/atom/atom-api-creds.png "API Credentials")
 
 6. Back in Atom, enter your API key and token from step 5 into the prompt.
 
