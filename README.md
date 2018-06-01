@@ -22,9 +22,9 @@ Demo of finding and inserting a Cacher snippet:
 
 1. Install the Cacher for Atom package using [apm](https://flight-manual.atom.io/using-atom/sections/atom-packages/#command-line):
 
-```bash
-apm install cacher
-```
+  ```bash
+  apm install cacher
+  ```
 
 2. Once Atom has loaded, you will be prompted to setup Cacher. Click the **Setup Cacher** button. (You can also start the setup wizard by using the **Cacher: Setup** command.)
 
