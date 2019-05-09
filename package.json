@@ -1,7 +1,7 @@
 {
   "name": "cacher",
   "main": "./lib/cacher",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Cacher is the code snippet library for pro developers. Quickly find and create personal/team snippets.",
   "keywords": [
     "snippets",
@@ -17,9 +17,9 @@
   "dependencies": {
     "ejs": "^2.5.9",
     "fuse.js": "^3.2.0",
-    "jquery": "^3.3.1",
-    "lodash": "^4.17.5",
-    "request": "^2.85.0"
+    "jquery": "^3.4.1",
+    "lodash": "^4.17.11",
+    "request": "^2.88.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.3",
