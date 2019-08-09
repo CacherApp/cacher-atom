@@ -100,19 +100,6 @@ The Cacher for Atom package is available for registered users on a Pro/Team plan
 
 Find help articles and file support tickets: [support.cacher.io](https://support.cacher.io)
 
-## Release Notes
-
-### 1.0.0
-
-Initial release of Cacher for Atom package.
-
-Adds commands:
-
-- Find Snippet
-- Create Snippet
-- Refresh
-- Setup
-
 ## Contributing
 
 Thanks for deciding to help!
