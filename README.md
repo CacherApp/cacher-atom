@@ -35,7 +35,7 @@ Demo of finding and inserting a Cacher snippet:
   ![Cacher Credentials](https://cdn.cacher.io/atom/atom-credentials.png "Cacher Credentials")
 
 4. From the popped up webpage, sign up or sign in as a Cacher user.
-5. Once you are signed in, you should see a dialog on the top-right corner with your **API KEY** and **API TOKEN** values.
+5. Once you are signed in, you should see a dialog open with your **API KEY** and **API TOKEN**.
 
   ![API Credentials](https://cdn.cacher.io/atom/atom-api-creds.png "API Credentials")
 
