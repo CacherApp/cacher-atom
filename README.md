@@ -4,7 +4,7 @@
 
 Features:
 - Support for editing and viewing 100+ programming languages.
-- Flexible color-coded labels to categorize snippets.
+- Flexible, nest-able, color-coded labels to categorize snippets.
 - Shareable snippet pages via Cacher's code-sharing community: [snippets.cacher.io](https://snippets.cacher.io/)
 - Team and organization features like shared libraries, notifications, role management and code reviews.
 - Desktop clients for Windows, macOS and Linux.
